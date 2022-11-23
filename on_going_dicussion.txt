@@ -1,0 +1,6 @@
+problems:
+-needed to request the ufrc dataset, which was successful but took time
+-the paper did not provide their dataset easily, and we had to crop the ufrb dataframes individually, and then draw the bounding boxes on them
+
+big problem: paper did not provide dataset, so we had to request the ufrb dataset, create own script to parse frame of 2.0 gb video files and crop using mtcnn face identifier. this took a lot of time
+
